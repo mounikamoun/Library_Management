@@ -1,5 +1,5 @@
 📚 Library Management System
-Project Overview
+**Project Overview**
 The Library Management System is a comprehensive database solution designed to streamline the management of a library's operations. This project includes tables for handling user logins, book details, authors, publishers, staff, readers, book issuance, and library settings. The database schema is implemented in PostgreSQL.
 
 Features
